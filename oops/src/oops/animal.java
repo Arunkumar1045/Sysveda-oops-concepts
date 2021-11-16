@@ -8,6 +8,6 @@ public void sleep() {
 }
 class pig extends animal{
 	public void animalsound() {
-		System.out.println("The pig says:wee wee");
+		System.out.println("The pig says:ooo ooo");
 	}
 }
